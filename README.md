@@ -1,1 +1,2 @@
 # Optimizando-la-cadena-de-suministro
+Las cadenas de suministro han cambiado radicalmente con la automatización y la IA. Empresas de todo el mundo ahora dependen de datos en tiempo real para tomar decisiones más rápidas y precisas, reduciendo tiempos de espera y optimizando procesos. La transformación digital ya no es opcional, sino clave para asegurar resiliencia y eficiencia en un entorno incierto. 
